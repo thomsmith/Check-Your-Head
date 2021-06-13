@@ -19,7 +19,7 @@ HEADERS = [
 ]
 
 
-parser = argparse.ArgumentParser(prog='head.py')
+parser = argparse.ArgumentParser(prog='check-your-head.py')
 parser.add_argument("-u", "--uri", help='Target URL e.g https://example.com')
 args = parser.parse_args()
 URI = args.uri
