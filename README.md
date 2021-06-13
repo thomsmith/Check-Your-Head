@@ -8,3 +8,8 @@ A quick and easy way to check a web applications response headers!
 - Argparse
 - Requests
 - Termcolor
+
+## Creator
+
+optionalCTF
+[Twitter](https://twitter.com/optionalCTF)
