@@ -27,7 +27,7 @@ URI = args.uri
 
 print('[+] Fetching HTTP Response Headers')
 response = requests.get(URI)
-print('[+] Server Header:',response.headers['server'])
+print('[+] Server Header:',response.headers)
 SET = []
 MISSING = []
 
